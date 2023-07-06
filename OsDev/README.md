@@ -1,5 +1,5 @@
 # Welcome to the OS Project
-_~By Pradyun Gayakwad_**
+**_~By Pradyun Gayakwad_**
 
 
 Helpful CLI commands
